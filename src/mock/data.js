@@ -2,9 +2,9 @@ import { nanoid } from 'nanoid';
 
 // HEAD DATA
 export const headData = {
-  title: 'Gaurav A. | Data Scientist and Chemical Engineer', // e.g: 'Name | Developer'
+  title: 'Gaurav Anand | Chemical Engineer and Data Scientist', // e.g: 'Name | Developer'
   lang: 'en', // e.g: en, es, fr, jp
-  description: 'Welcome to my digital portfolio', // e.g: Welcome to my website
+  description: 'Welcome to my website', // e.g: Welcome to my website
 };
 
 // HERO DATA
